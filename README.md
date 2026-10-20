@@ -96,9 +96,9 @@ PORT=5001
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 ADMIN_NAME=sauvi receptionist
-ADMIN_EMAIL=admin@clinic.com
-ADMIN_PASSWORD=admin123
-ADMIN_PHONE=9876543210
+ADMIN_EMAIL=###########
+ADMIN_PASSWORD=##########
+ADMIN_PHONE=###########
 ```
 
 Run the seed script to add sample doctors and demo accounts to the database:
